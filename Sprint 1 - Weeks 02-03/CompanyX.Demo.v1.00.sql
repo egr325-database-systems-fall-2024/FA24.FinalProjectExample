@@ -1,0 +1,1 @@
+SELECT * FROM Employee E INNER JOIN Dependent D ON E.EmpSID = D.fkEmpSID;
